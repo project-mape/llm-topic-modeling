@@ -1,0 +1,4 @@
+Please Use these links to Download the embedding Files
+
+doc_text_emb = "https://drive.google.com/file/d/1PGesv3C9lCqOx6MJKnfF4nsuM83XDG6j/view?usp=drive_link"
+topic_emb = "https://drive.google.com/file/d/1mUvPgKIk4iRPbHiJBhSTDTj5Kaq2vNED/view?usp=drive_link"
