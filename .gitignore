@@ -1,8 +1,6 @@
-Data_Files/*
-!Data_Files/.gitkeep
+
 
 Embedding_Files/*
 !Embedding_Files/.gitkeep
 
-Figure_Files/*
-!Figure_Files/.gitkeep
+
